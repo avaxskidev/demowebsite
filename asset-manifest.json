@@ -1,39 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.7359b015.chunk.css",
-    "main.js": "/static/js/main.02deb88f.chunk.js",
-    "main.js.map": "/static/js/main.02deb88f.chunk.js.map",
+    "main.css": "/static/css/main.c462d18c.chunk.css",
+    "main.js": "/static/js/main.acd43e97.chunk.js",
+    "main.js.map": "/static/js/main.acd43e97.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d0ded42b.js",
     "runtime-main.js.map": "/static/js/runtime-main.d0ded42b.js.map",
     "static/js/2.d9caf204.chunk.js": "/static/js/2.d9caf204.chunk.js",
     "static/js/2.d9caf204.chunk.js.map": "/static/js/2.d9caf204.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7359b015.chunk.css.map": "/static/css/main.7359b015.chunk.css.map",
+    "static/css/main.c462d18c.chunk.css.map": "/static/css/main.c462d18c.chunk.css.map",
     "static/js/2.d9caf204.chunk.js.LICENSE.txt": "/static/js/2.d9caf204.chunk.js.LICENSE.txt",
-    "static/media/11.4f4f949e.png": "/static/media/11.4f4f949e.png",
-    "static/media/12.1df0be41.png": "/static/media/12.1df0be41.png",
-    "static/media/13.8998b5ce.png": "/static/media/13.8998b5ce.png",
-    "static/media/14.d1ec09e7.png": "/static/media/14.d1ec09e7.png",
-    "static/media/15.39d9b065.png": "/static/media/15.39d9b065.png",
-    "static/media/16.67af6b69.png": "/static/media/16.67af6b69.png",
-    "static/media/17.842becbc.png": "/static/media/17.842becbc.png",
-    "static/media/18.7f051246.png": "/static/media/18.7f051246.png",
-    "static/media/19.5d42339d.png": "/static/media/19.5d42339d.png",
-    "static/media/20.7e45808d.png": "/static/media/20.7e45808d.png",
     "static/media/App.css": "/static/media/AkiraExpanded.51985533.otf",
     "static/media/background1.169bca43.png": "/static/media/background1.169bca43.png",
     "static/media/background2.4caf927d.png": "/static/media/background2.4caf927d.png",
     "static/media/background3.f14869db.png": "/static/media/background3.f14869db.png",
-    "static/media/skigif.b3edb2e1.gif": "/static/media/skigif.b3edb2e1.gif",
+    "static/media/rotatingif.bab78d97.gif": "/static/media/rotatingif.bab78d97.gif",
+    "static/media/skigif.dcc5c4d3.gif": "/static/media/skigif.dcc5c4d3.gif",
     "static/media/skiteamfulllogo.a04c1547.png": "/static/media/skiteamfulllogo.a04c1547.png",
     "static/media/skiteamlogo.1d871a68.png": "/static/media/skiteamlogo.1d871a68.png",
     "static/media/skiteampromo.f6418538.png": "/static/media/skiteampromo.f6418538.png",
-    "static/media/wsb.63a85e2c.jpeg": "/static/media/wsb.63a85e2c.jpeg"
+    "static/media/wsb.b5a74781.png": "/static/media/wsb.b5a74781.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d0ded42b.js",
     "static/js/2.d9caf204.chunk.js",
-    "static/css/main.7359b015.chunk.css",
-    "static/js/main.02deb88f.chunk.js"
+    "static/css/main.c462d18c.chunk.css",
+    "static/js/main.acd43e97.chunk.js"
   ]
 }
